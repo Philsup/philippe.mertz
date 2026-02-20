@@ -41,7 +41,7 @@
 **IMT Atlantique** | 2025 – 2028  
 *Diplôme d'Ingénieur Généraliste*
 
-**Classe Préparatoire PTSI-PT** 
+**Classe Préparatoire PTSI-PT** | 
 *Sciences de l’Ingénieur, Mathématiques et Physique* Admission aux concours Mines-Ponts et Centrale-Supélec.
 
 ---
